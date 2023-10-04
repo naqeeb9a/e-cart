@@ -1,0 +1,4 @@
+#Mon Oct 02 18:38:25 PKT 2023
+base.0=/Users/apple/Downloads/ecart_driver/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
